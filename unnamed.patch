@@ -1,0 +1,17 @@
+Index: lib/main.dart
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/lib/main.dart b/lib/main.dart
+--- a/lib/main.dart	(revision aaf42f0811b1aa1253f32c3bf7f8c3e187a67e41)
++++ b/lib/main.dart	(revision 7542b3a028f1e40c2153466a5775a4b7c5cc8f68)
+@@ -31,7 +31,7 @@
+         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
+         useMaterial3: true,
+       ),
+-      home: const MyHomePage(title: 'Fluttedg dfr25 Demsdfs o Home Page'),
++      home: const MyHomePage(title: 'Fluttedg dfr2fhf Demsdfs o Home Page'),
+     );
+   }
+ }
