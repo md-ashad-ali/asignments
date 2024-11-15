@@ -31,7 +31,7 @@ class MyApp extends StatelessWidget {
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
         useMaterial3: true,
       ),
-      home: const MyHomePage(title: 'Fluttedg dfr Demsdfs o Home Page'),
+      home: const MyHomePage(title: 'Fluttedg dfr25 Demsdfs o Home Page'),
     );
   }
 }
